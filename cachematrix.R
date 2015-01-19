@@ -3,8 +3,9 @@
 ## by Joanna Widjaja (jo.widjaja@gmail.com)
 ## Jan 18, 2015
 
-## These 2 functions 
-## functions do
+## These 2 functions work together. The first allows users to create a "matrix" of 
+## functions, and pass it to the second function that will compute the inverse of 
+## the matrix.
 
 ## makeCacheMatrix is a function that creates a special "matrix" object 
 ## that can cache its inverse..
